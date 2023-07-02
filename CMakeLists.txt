@@ -6,7 +6,8 @@ set(SOURCES
         main.cpp 
 )       
 
-set(Headers  
+set(Headers
+        SomeSort.h
 )
 
 add_executable(SomeSort ${SOURCES} ${Headers})

@@ -1,16 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\fufaich\code\Algorithms\SomeSort\main.cpp">
+    <ClCompile Include="D:\FromSSD\Code\Algorithms\SomeSort\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\fufaich\code\Algorithms\SomeSort\CMakeLists.txt" />
+    <ClInclude Include="D:\FromSSD\Code\Algorithms\SomeSort\SomeSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
+    <CustomBuild Include="D:\FromSSD\Code\Algorithms\SomeSort\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5FD47CC8-169F-3FB9-BBD7-ECA5C3DB7B90}</UniqueIdentifier>
+    </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{33B0B57B-D8EC-328A-94DA-960D1470ABD3}</UniqueIdentifier>
+      <UniqueIdentifier>{D45DF8BA-2792-3E8F-9F88-A07F928762A6}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

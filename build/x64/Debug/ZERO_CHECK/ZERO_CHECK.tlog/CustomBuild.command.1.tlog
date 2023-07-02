@@ -1,6 +1,6 @@
-^C:\FUFAICH\CODE\ALGORITHMS\SOMESORT\BUILD\CMAKEFILES\184298661744F7A7519EA57DE3685AD1\GENERATE.STAMP.RULE
+^D:\FROMSSD\CODE\ALGORITHMS\SOMESORT\BUILD\CMAKEFILES\4214EA50B2B04CC2E2E619E3749D461F\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/fufaich/code/Algorithms/SomeSort -BC:/fufaich/code/Algorithms/SomeSort/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/fufaich/code/Algorithms/SomeSort/build/SomeSort.sln
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/FromSSD/Code/Algorithms/SomeSort -BD:/FromSSD/Code/Algorithms/SomeSort/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/FromSSD/Code/Algorithms/SomeSort/build/SomeSort.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

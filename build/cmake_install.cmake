@@ -1,4 +1,4 @@
-# Install script for directory: C:/fufaich/code/Algorithms/SomeSort
+# Install script for directory: D:/FromSSD/Code/Algorithms/SomeSort
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/fufaich/code/Algorithms/SomeSort/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/FromSSD/Code/Algorithms/SomeSort/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
